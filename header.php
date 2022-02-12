@@ -3,7 +3,7 @@
    <a href="home.php" class="logo">🅙🅤🅢🅣 🅜🅐🅡🅡🅘🅔🅓!</a>
 
    <nav class="navbar">
-      <a href="home.php">Home</a>
+      <a href="index.php">home</a>
       <a href="about.php">About</a>
       <a href="portfolio.php">Portfolio</a>
       <a href="pricing.php">Pricing</a>
